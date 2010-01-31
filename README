@@ -1,0 +1,14 @@
+Planner
+A school project I made for planning projects in SCRUM.
+I got the project form explained to me by a teacher which explains
+some of the more funny things like tasks being stories etc. I guess
+it all makes sense if you simply exchange task with stories in all
+the places. Tasks are simply not entered anywhere. I guess I'll have
+to fix that at some point when I have time.
+There are two more views that are supposed to be in the database.
+I somehow managed to break them when porting between phpMyAdmin and
+MySQL admin. Another thing to fix, they are control the views that
+the app produces for you. You can still see the project view and from
+their you'll get the general gist of it I hope.
+
+/Werner
